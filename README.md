@@ -1,6 +1,6 @@
 Deploying Steps
 ```
-1)Python manage.py makemigrations
+1)Python manage.py makemigrations polls
 2)python mangage.py migrate
 3)python manage.py insert_test_data
 4)python manage.py runserver 8001

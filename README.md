@@ -1,8 +1,10 @@
 Deploying Steps
+```
 1)Python manage.py makemigrations
 2)python mangage.py migrate
 3)python manage.py insert_test_data
-
+```
+```
 1) Get Track List:
 
  
@@ -23,7 +25,7 @@ Deploying Steps
         "name": "IIT"
     }
 ]
-
+```
 2)Create Track:
  
  URL: http://localhost:8001/polls/tracklist/add
